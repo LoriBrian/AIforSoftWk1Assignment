@@ -40,7 +40,8 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python using Goo
 ---
 
 ## 📸 Screenshot
-![Chat Demo](chat-screenshot.png)
+![Chat Demo](ChatbotScreenshot 1.png , ChatbotScreenshot1.0.png, ChatbotScreenshot2.png, ChatbotScreenshot3.png
+)
 
 ---
 
